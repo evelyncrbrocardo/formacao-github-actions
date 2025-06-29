@@ -4,9 +4,12 @@
   "description": "Projeto para aprender GitHub Actions com pipeline de testes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Teste rodando\" && exit 0"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Evelyn Cristina Brocardo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
 }
