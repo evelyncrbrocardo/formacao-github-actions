@@ -1,4 +1,12 @@
 {
+  "name": "formacao-github-actions",
+  "version": "1.0.0",
+  "description": "Projeto para aprender GitHub Actions com pipeline de testes",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Teste rodando\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Evelyn Cristina Brocardo",
+  "license": "ISC"
 }
